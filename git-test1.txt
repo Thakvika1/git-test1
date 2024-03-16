@@ -2,3 +2,8 @@ hello tiki
 tiki is fine
 ghgieohg
 fgmsognh
+dog
+cat
+foot 
+1234
+214243
